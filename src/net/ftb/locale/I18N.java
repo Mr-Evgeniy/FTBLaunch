@@ -49,6 +49,7 @@ public class I18N {
 		ptBR,
 		ptPT,
 		ruRU,
+		ukUA,
 		svSE
 	}
 
