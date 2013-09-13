@@ -1,0 +1,47 @@
+LOCALE_NAME = Українська (Ukrainian)
+LOCALE_LOADED = Завантажений файл Української мови!
+
+# Footer #
+DONATE_BUTTON = Пожертвувати
+
+# Main Tab
+EDIT_BUTTON = Змінити
+LAUNCH_BUTTON = Старт
+PROFILE_CREATE = Створити профіль
+PROFILE_SELECT = Вибрати профіль
+DOWNLOAD_SERVER_PACK = Завантажити серверні файли
+
+# Map Tab
+INSTALL_MAP = Встановити карту
+DOWNLOAD_MAP_SERVER = Завантажити карту для сервера
+
+# TexturePack Tab
+INSTALL_TEXTUREPACK = Встановити додаткові текстури
+
+# Options pane
+INSTALL_FOLDER = Шлях для установки...
+FORCE_UPDATE = Примусове оновлення?
+RAM_MAX = Максимум ОЗУ (Мб)
+LANGUAGE = Мова
+
+# Shared strings
+FILTER_SETTINGS = Фільтр
+
+# Modpacks pane
+MODS_EDIT_PACK = Редагувати набір модов
+MODS_WAIT_WHILE_LOADING = Моди завантажуються, будь ласка зачекайте...
+
+# EditModPackDialog
+MODS_EDIT_ENABLED_LABEL = Включені моди
+MODS_EDIT_DISABLED_LABEL = Виключені моди
+MODS_EDIT_OPEN_FOLDER = Відкрити папку
+MODS_EDIT_ADD_MOD = Додати мод
+MODS_EDIT_ENABLE_MOD = << Включити
+MODS_EDIT_DISABLE_MOD = Вимкнути >>
+MODS_EDIT_TITLE = Редактор набору модів
+
+# Maps pane
+MAPS_WAIT_WHILE_LOADING = Карти завантажуються, будь ласка зачекайте....
+
+# TexturePack pane
+TEXTURE_WAIT_WHILE_LOADING = Текстури завантажуються, будь ласка зачекайте....
